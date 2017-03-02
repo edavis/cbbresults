@@ -5374,3 +5374,40 @@
 02/28/2017 Georgetown              59 Seton Hall              62    
 02/28/2017 Mississippi St.         57 South Carolina          63    
 02/28/2017 Ball St.                82 Toledo                  74    
+03/01/2017 Incarnate Word          89 Abilene Christian       75    
+03/01/2017 Mississippi             55 Alabama                 70    
+03/01/2017 Hartford                71 Albany                 100 T  
+03/01/2017 North Carolina St.      74 Clemson                 78    
+03/01/2017 VCU                     72 Dayton                  79    
+03/01/2017 Connecticut             62 East Carolina           66    
+03/01/2017 Arkansas                65 Florida                 78    
+03/01/2017 George Washington       67 Fordham                 66    
+03/01/2017 Duquesne                62 George Mason            63    
+03/01/2017 Auburn                  78 Georgia                 79    
+03/01/2017 Texas A&M Corpus Chris  80 Houston Baptist         94    
+03/01/2017 Michigan St.            70 Illinois                73    
+03/01/2017 Robert Morris           69 LIU Brooklyn            68 T  
+03/01/2017 Tennessee               82 LSU                     92    
+03/01/2017 Richmond                75 Massachusetts           64    
+03/01/2017 Sacred Heart            73 Mount St. Mary's        76 T  
+03/01/2017 UMBC                    65 New Hampshire           74 T  
+03/01/2017 Michigan                65 Northwestern            67    
+03/01/2017 Boston College          66 Notre Dame              82    
+03/01/2017 Rhode Island            68 Saint Joseph's          49    
+03/01/2017 La Salle                55 Saint Louis             70    
+03/01/2017 Air Force               38 San Diego St.           51    
+03/01/2017 Nevada                  82 San Jose St.            67    
+03/01/2017 Tennessee St.           75 Southeast Missouri St.  78 NT1 Nashville, TN
+03/01/2017 Bryant                  78 St. Francis PA         100 T  
+03/01/2017 Binghamton              60 Stony Brook             70 T  
+03/01/2017 Kansas St.              75 TCU                     74    
+03/01/2017 Murray St.              85 Tennessee Tech          84 NT2 Nashville, TN
+03/01/2017 Texas                   57 Texas Tech              67    
+03/01/2017 UC Irvine               68 UC Riverside            56    
+03/01/2017 Washington              66 UCLA                    98    
+03/01/2017 Utah St.                59 UNLV                    66    
+03/01/2017 Washington St.          64 USC                     87    
+03/01/2017 Maine                   41 Vermont                 86 T  
+03/01/2017 Fairleigh Dickinson     70 Wagner                  72 T  
+03/01/2017 Louisville              81 Wake Forest             88    
+03/01/2017 Marquette               95 Xavier                  84    
