@@ -5835,3 +5835,143 @@ date,visitor,visitor_score,home,home_score,notes,location
 03/12/2017,Troy,59,Texas St.,53,NT,"New Orleans, LA"
 03/12/2017,Rhode Island,70,VCU,63,NT,"Pittsburgh, PA"
 03/12/2017,Michigan,71,Wisconsin,56,NT,"Washington, DC"
+03/13/2017,Norfolk St.,64,Liberty,73,P,
+03/14/2017,Richmond,71,Alabama,64,P,
+03/14/2017,Cal St. Bakersfield,73,California,66,P,
+03/14/2017,Houston Baptist,79,Campbell,98,P,
+03/14/2017,Oakland,74,Clemson,69,P,
+03/14/2017,College of Charleston,74,Colorado St.,81,P,
+03/14/2017,Indiana,63,Georgia Tech,75,P,
+03/14/2017,Valparaiso,57,Illinois,82,P,
+03/14/2017,St. Francis PA,78,Jacksonville,76,P,
+03/14/2017,Wake Forest,88,Kansas St.,95,NP,"Dayton, OH"
+03/14/2017,Mississippi,91,Monmouth,83,P,
+03/14/2017,New Orleans,66,Mount St. Mary's,67,NP,"Dayton, OH"
+03/14/2017,Canisius,74,Samford,78,P,
+03/14/2017,Boise St.,73,Utah,68,P,
+03/15/2017,UT Arlington,105,BYU,89,P,
+03/15/2017,Hampton,67,Coastal Carolina,83,P,
+03/15/2017,Ball St.,80,Fort Wayne,88,P,
+03/15/2017,Loyola MD,73,George Mason,58,P,
+03/15/2017,Toledo,69,George Washington,73,P,
+03/15/2017,Belmont,78,Georgia,69,P,
+03/15/2017,Utah Valley,74,Georgia Southern,49,P,
+03/15/2017,Akron,78,Houston,75,P,
+03/15/2017,Stephen F. Austin,50,Idaho,73,P,
+03/15/2017,UC Irvine,71,Illinois St.,85,P,
+03/15/2017,South Dakota,75,Iowa,87,P,
+03/15/2017,USC,75,Providence,71,NP,"Dayton, OH"
+03/15/2017,San Francisco,76,Rice,85,P,
+03/15/2017,UNC Greensboro,77,Syracuse,90,P,
+03/15/2017,Fresno St.,59,TCU,66,P,
+03/15/2017,Georgia St.,64,Texas A&M Corpus Chris,80,P,
+03/15/2017,North Carolina Central,63,UC Davis,67,NP,"Dayton, OH"
+03/15/2017,Colorado,74,UCF,79,P,
+03/15/2017,Fairfield,83,UMBC,88,P,
+03/15/2017,Green Bay,82,UMKC,92,P,
+03/15/2017,Eastern Washington,81,Wyoming,91,P,
+03/16/2017,Saint Peter's,59,Albany,55,P,
+03/16/2017,North Dakota,82,Arizona,100,NP,"Salt Lake City, UT"
+03/16/2017,Winthrop,64,Butler,76,NP,"Milwaukee, WI"
+03/16/2017,Weber St.,80,Cal St. Fullerton,76,P,
+03/16/2017,East Tennessee St.,65,Florida,80,NP,"Orlando, FL"
+03/16/2017,Florida Gulf Coast,80,Florida St.,86,NP,"Orlando, FL"
+03/16/2017,South Dakota St.,46,Gonzaga,66,NP,"Salt Lake City, UT"
+03/16/2017,Stony Brook,69,Illinois Chicago,71,P,
+03/16/2017,Nevada,73,Iowa St.,84,NP,"Milwaukee, WI"
+03/16/2017,Xavier,76,Maryland,65,NP,"Orlando, FL"
+03/16/2017,Middle Tennessee,81,Minnesota,72,NP,"Milwaukee, WI"
+03/16/2017,Vanderbilt,66,Northwestern,68,NP,"Salt Lake City, UT"
+03/16/2017,Princeton,58,Notre Dame,60,NP,"Buffalo, NY"
+03/16/2017,Vermont,70,Purdue,80,NP,"Milwaukee, WI"
+03/16/2017,VCU,77,Saint Mary's,85,NP,"Salt Lake City, UT"
+03/16/2017,UNC Asheville,75,Tennessee Martin,89,P,
+03/16/2017,Lamar,60,Texas St.,70,P,
+03/16/2017,Furman,79,USC Upstate,57,P,
+03/16/2017,Mount St. Mary's,56,Villanova,76,NP,"Buffalo, NY"
+03/16/2017,UNC Wilmington,71,Virginia,76,NP,"Orlando, FL"
+03/16/2017,Bucknell,80,West Virginia,86,NP,"Buffalo, NY"
+03/16/2017,Virginia Tech,74,Wisconsin,84,NP,"Buffalo, NY"
+03/17/2017,Seton Hall,71,Arkansas,77,NP,"Greenville, SC"
+03/17/2017,New Mexico St.,73,Baylor,91,NP,"Tulsa, OK"
+03/17/2017,Kansas St.,61,Cincinnati,75,NP,"Sacramento, CA"
+03/17/2017,Rhode Island,84,Creighton,72,NP,"Sacramento, CA"
+03/17/2017,Wichita St.,64,Dayton,58,NP,"Indianapolis, IN"
+03/17/2017,Troy,65,Duke,87,NP,"Greenville, SC"
+03/17/2017,UC Davis,62,Kansas,100,NP,"Tulsa, OK"
+03/17/2017,Northern Kentucky,70,Kentucky,79,NP,"Indianapolis, IN"
+03/17/2017,Jacksonville St.,63,Louisville,78,NP,"Indianapolis, IN"
+03/17/2017,Michigan St.,78,Miami FL,58,NP,"Tulsa, OK"
+03/17/2017,Oklahoma St.,91,Michigan,92,NP,"Indianapolis, IN"
+03/17/2017,Texas Southern,64,North Carolina,103,NP,"Greenville, SC"
+03/17/2017,Iona,77,Oregon,93,NP,"Sacramento, CA"
+03/17/2017,USC,66,SMU,65,NP,"Tulsa, OK"
+03/17/2017,Marquette,73,South Carolina,93,NP,"Greenville, SC"
+03/17/2017,Kent St.,80,UCLA,97,NP,"Sacramento, CA"
+03/18/2017,Saint Mary's,60,Arizona,69,NP,"Salt Lake City, UT"
+03/18/2017,Middle Tennessee,65,Butler,74,NP,"Milwaukee, WI"
+03/18/2017,Virginia,39,Florida,65,NP,"Orlando, FL"
+03/18/2017,Xavier,91,Florida St.,66,NP,"Orlando, FL"
+03/18/2017,Northwestern,73,Gonzaga,79,NP,"Salt Lake City, UT"
+03/18/2017,Iowa St.,76,Purdue,80,NP,"Milwaukee, WI"
+03/18/2017,Mississippi,85,Syracuse,80,P,
+03/18/2017,St. Francis PA,79,UMBC,87,P,
+03/18/2017,Wisconsin,65,Villanova,62,NP,"Buffalo, NY"
+03/18/2017,Notre Dame,71,West Virginia,83,NP,"Buffalo, NY"
+03/19/2017,USC,78,Baylor,82,NP,"Tulsa, OK"
+03/19/2017,South Carolina,88,Duke,81,NP,"Greenville, SC"
+03/19/2017,Belmont,57,Georgia Tech,71,P,
+03/19/2017,TCU,94,Iowa,92,P1,
+03/19/2017,Michigan St.,70,Kansas,90,NP,"Tulsa, OK"
+03/19/2017,Wichita St.,62,Kentucky,65,NP,"Indianapolis, IN"
+03/19/2017,Michigan,73,Louisville,69,NP,"Indianapolis, IN"
+03/19/2017,Arkansas,65,North Carolina,72,NP,"Greenville, SC"
+03/19/2017,Rhode Island,72,Oregon,75,NP,"Sacramento, CA"
+03/19/2017,Oakland,83,Richmond,87,P,
+03/19/2017,Cincinnati,67,UCLA,79,NP,"Sacramento, CA"
+03/20/2017,Tennessee Martin,56,Campbell,73,P,
+03/20/2017,Loyola MD,63,Coastal Carolina,72,P,
+03/20/2017,Cal St. Bakersfield,81,Colorado St.,63,P,
+03/20/2017,Boise St.,56,Illinois,71,P,
+03/20/2017,George Washington,71,Illinois Chicago,80,P,
+03/20/2017,UCF,63,Illinois St.,62,P,
+03/20/2017,Samford,58,Liberty,66,P,
+03/20/2017,Utah Valley,85,Rice,79,P,
+03/20/2017,Weber St.,73,Texas A&M Corpus Chris,82,P,
+03/20/2017,Akron,69,UT Arlington,85,P,
+03/20/2017,UMKC,61,Wyoming,72,P,
+03/21/2017,Georgia Tech,74,Mississippi,66,P,
+03/21/2017,Richmond,68,TCU,86,P,
+03/22/2017,Illinois Chicago,78,Coastal Carolina,89,P,
+03/22/2017,Idaho,55,Texas St.,64,P,
+03/22/2017,Illinois,58,UCF,68,P,
+03/22/2017,Cal St. Bakersfield,80,UT Arlington,76,P,
+03/22/2017,Utah Valley,68,Wyoming,74,P,
+03/23/2017,Xavier,73,Arizona,71,NP,"San Jose, CA"
+03/23/2017,West Virginia,58,Gonzaga,61,NP,"San Jose, CA"
+03/23/2017,Purdue,66,Kansas,98,nP,"Kansas City, MO"
+03/23/2017,Michigan,68,Oregon,69,NP,"Kansas City, MO"
+03/24/2017,South Carolina,70,Baylor,50,NP,"New York, NY"
+03/24/2017,Wisconsin,83,Florida,84,NP1,"New York, NY"
+03/24/2017,UCLA,75,Kentucky,86,NP,"Memphis, TN"
+03/24/2017,Butler,80,North Carolina,92,NP,"Memphis, TN"
+03/25/2017,Furman,79,Campbell,64,P,
+03/25/2017,Xavier,59,Gonzaga,83,NP,"San Jose, CA"
+03/25/2017,Oregon,74,Kansas,60,nP,"Kansas City, MO"
+03/25/2017,Saint Peter's,49,Texas St.,44,P,
+03/26/2017,South Carolina,77,Florida,70,NP,"New York, NY"
+03/26/2017,Kentucky,73,North Carolina,75,NP,"Memphis, TN"
+03/26/2017,Fort Wayne,62,Texas A&M Corpus Chris,78,P,
+03/26/2017,Liberty,68,UMBC,80,P,
+03/27/2017,Wyoming,81,Coastal Carolina,91,P,
+03/28/2017,Cal St. Bakersfield,61,Georgia Tech,76,NP,"New York, NY"
+03/28/2017,TCU,68,UCF,53,NP,"New York, NY"
+03/29/2017,Furman,51,Saint Peter's,77,P,
+03/29/2017,Texas A&M Corpus Chris,79,UMBC,61,P,
+03/29/2017,Coastal Carolina,57,Wyoming,81,P,
+03/30/2017,Georgia Tech,56,TCU,88,NP,"New York, NY"
+03/31/2017,Saint Peter's,62,Texas A&M Corpus Chris,61,P,
+03/31/2017,Coastal Carolina,59,Wyoming,83,P,
+04/01/2017,South Carolina,73,Gonzaga,77,NP,"Glendale, AZ"
+04/01/2017,Oregon,76,North Carolina,77,NP,"Glendale, AZ"
+04/03/2017,Gonzaga,65,North Carolina,71,NP,"Glendale, AZ"
